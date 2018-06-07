@@ -1,4 +1,3 @@
-import math
 import linear as li
 
 # check args count
